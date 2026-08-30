@@ -18,3 +18,7 @@ pip install -U youtube-transcript-api
 
 
 #example:  python script_subtitles.py -u https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+
+#После успешного окончания, в каталоге должен появиться файл примерно:
+
+titles_km64378uMCs.txt
