@@ -13,7 +13,7 @@ source venv/bin/activate
 
 pip install -U pip
 
-pip install youtube_transcript_api
+pip install "youtube-transcript-api<1.0"
 
 
 
