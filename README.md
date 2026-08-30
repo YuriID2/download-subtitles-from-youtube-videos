@@ -12,3 +12,6 @@ pip install -U pip
 
 pip install youtube_transcript_api
 
+
+
+python script_subtitles.py -u https://www.youtube.com/watch?v=YOUR_VIDEO_ID
